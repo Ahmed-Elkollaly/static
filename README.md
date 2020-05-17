@@ -10,7 +10,7 @@ Simple CI/CD pipeline to upload file to AWS S3 to act as static website
 * Lint : Lintting html file
 * Upload : Upload file to AWS S3
 
-![Images show Jenkins pipeline](./screenshot-08.png)
+![Images show Jenkins pipeline](https://user-images.githubusercontent.com/25865668/82160059-dede9e00-9892-11ea-9993-f29ca65270d2.png)
 
 Note: `Jenkinsfile` contains more information about the pipeline
 
